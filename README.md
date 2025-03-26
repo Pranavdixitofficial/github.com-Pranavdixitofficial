@@ -3,7 +3,7 @@
 🚀 **Business Analyst | Data Analyst | Python Developer**  
 📊 Skilled in **Python | SQL | Power BI | Tableau | JIRA | Excel**  
 📈 Passionate about **Data Science, Business Analysisng, and AI-driven Analytics**  
-🎯 Looking for opportunities in **Data Analytics, Business Intelligence, and Automation**  
+🎯 Looking for opportunities in **Data Analytics, Business Analytics**  
 
 ---
 
