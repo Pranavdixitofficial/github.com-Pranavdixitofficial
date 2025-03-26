@@ -23,6 +23,8 @@
 
 **⚙️ Project Management & Tools:** ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)  
 
+**📢 Digital Marketing & Advertising:** ![Meta Ads](https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+
 ---
 
 ## **🚀 Featured Projects**  
