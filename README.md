@@ -32,7 +32,7 @@
 |---------|-----------|----------------|
 | 🛒 **E-Commerce Sales Analysis** | Power BI, Excel | [GitHub Link](https://github.com/Pranavdixitofficial/E-Commerce_sales_analysis) |
 | 📈 **Amazon Sales Analysis** | Python, Pandas, Matplotlib | [GitHub Link](https://github.com/Pranavdixitofficial/Amazon_india_sales/tree/main) |
-| 🎬 **Netflix Dataset Analysis** | Tableau, Excel | [GitHub Link](https://github.com/Pranavdixitofficial/Netflix-Data-Analytics) |
+| 🎬 **Netflix Dataset Analysis** | Tableau, Excel, MYSQL | [GitHub Link](https://github.com/Pranavdixitofficial/Netflix-Data-Analytics) |
 
 ---
 
@@ -46,5 +46,4 @@
 
 ## **📞 Contact Me**  
 📩 **Email:** dixitpranav35@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavdixitofficial/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pranavdixitofficial/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavdixitofficial/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pranavdixitofficial/)  
